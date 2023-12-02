@@ -1,1 +1,1 @@
-![Github Action Passed Test](screenshoot/5_3-passing-github-actions-build.png)
+![Github Action Passed Test](screenshot/5_3-passing-github-actions-build.png)
