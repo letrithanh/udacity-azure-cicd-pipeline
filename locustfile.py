@@ -4,7 +4,7 @@ class UdacityLoustFile(HttpUser):
     
     @task
     def predict(self):
-        self.client.post("http://localhost:5000/predict", json={
+        self.client.post("/predict", json={
             "CHAS":{  
                "0":0
             },
