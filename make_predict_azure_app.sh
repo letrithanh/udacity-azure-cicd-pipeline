@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-HOST=udacityazurecicd-230912
+HOST=udacityazurecicd-23091201
 PORT=443
 echo "Port: $PORT"
 
