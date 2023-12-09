@@ -1,0 +1,1 @@
+az webapp up -n udacityazurecicd-230912
