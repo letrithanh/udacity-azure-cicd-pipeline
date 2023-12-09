@@ -3,3 +3,4 @@
 .ipynb_checkpoints
 .azure
 .venv
+__pycache__
