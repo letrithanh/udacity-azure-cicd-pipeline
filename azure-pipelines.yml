@@ -9,5 +9,5 @@ trigger:
 pool: SelfHostedAgentPool
 
 steps:
-- script: sh commands.sh
+- script: echo 'Hello world'
   displayName: 'CD process'
